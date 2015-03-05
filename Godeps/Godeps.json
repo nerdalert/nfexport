@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/nerdalert/nfexport",
+	"GoVersion": "go1.4.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.2-10-g51fe59a",
+			"Rev": "51fe59aca108dc5680109e7b2051cbdcfa5a253c"
+		},
+		{
+			"ImportPath": "github.com/influxdb/influxdb/client",
+			"Comment": "v0.8.1-55-gfddcdaa",
+			"Rev": "fddcdaa6509852d16ad431e61cb7bf76f3a8de77"
+		}
+	]
+}
